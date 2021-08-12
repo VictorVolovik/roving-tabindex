@@ -1,0 +1,15 @@
+{
+  "name": "roving-tabindex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "custom-elements.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^13.0.0"
+  }
+}
