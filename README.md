@@ -1,4 +1,4 @@
-## Simple example following A11ycasts episode [Roving tabindex](https://goo.gl/06qEUW)
+## Simple example following A11ycasts episode [Roving tabindex](https://www.youtube.com/watch?v=uCIC2LNt0bk)
 
 ## Commands
 
