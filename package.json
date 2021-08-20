@@ -2,7 +2,7 @@
   "name": "roving-tabindex",
   "version": "1.0.0",
   "description": "",
-  "main": "custom-elements.js",
+  "main": "",
   "scripts": {
     "start": "http-server"
   },
